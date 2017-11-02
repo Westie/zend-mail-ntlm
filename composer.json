@@ -15,7 +15,7 @@
         }
     },
     "require": {
-        "robinpowered/php-ntlm": "^0.4.0@dev",
-        "zendframework/zend-mail": "^2.8@dev"
+        "zendframework/zend-mail": "^2.8",
+        "robinpowered/php-ntlm": "^0.4.0"
     }
 }
