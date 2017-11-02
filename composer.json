@@ -1,0 +1,21 @@
+{
+    "name": "westie/zend-mail-ntlm",
+    "description": "NT",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "David Weston",
+            "email": "westie@typefish.co.uk"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Westie\\Zend\\Mail\\Protocol\\Smtp\\Auth\\": "./lib"
+        }
+    },
+    "require": {
+        "robinpowered/php-ntlm": "^0.4",
+        "zendframework/zend-mail": "^2.8"
+    }
+}
