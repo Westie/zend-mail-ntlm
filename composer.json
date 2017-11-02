@@ -1,6 +1,6 @@
 {
     "name": "westie/zend-mail-ntlm",
-    "description": "NT",
+    "description": "NTLM support for SMTP authentication for ZF2",
     "type": "library",
     "license": "MIT",
     "authors": [
